@@ -1,6 +1,7 @@
 body{
     margin: 40px auto;
-    padding:30px
+    padding:30px;
+    border-radius: 5px;
     
 }
 header nav ul{

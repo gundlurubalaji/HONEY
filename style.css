@@ -3,3 +3,6 @@ body{
     padding:30px
     
 }
+header nav ul{
+    list-style: none;
+}
